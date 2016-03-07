@@ -6,45 +6,29 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     993 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.051 seconds
+Platform assembly: C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\ADD\Desktop\Murata Works\Github\See-Through-View\seethroughview_flat_04_Data\Managed\System.dll (this message is harmless)
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1562)
-
-The referenced script on this Behaviour is missing!
- 
-(Filename:  Line: 1715)
-
+Platform assembly: C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ADD\Desktop\Murata Works\Unity Projects\See Through View\seethroughview_flat_04_Data\Managed\System.dll (this message is harmless)
 Default clip could not be found in attached animations list.
  
 (Filename:  Line: 400)
 
 Main Camera
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
-
-Found!!!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
-
-Text of MyButton :  Reset
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
@@ -56,5 +40,26 @@ ArgumentException: The thing you want to instantiate is null.
 (Filename:  Line: -1)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: b0c -> priority: 1 
-  Thread -> id: 2544 -> priority: 1 
+  Thread -> id: 168c -> priority: 1 
+  Thread -> id: 254c -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.260851 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 420.
+Total: 0.269305 ms (FindLiveObjects: 0.016421 ms CreateObjectMapping: 0.011905 ms MarkObjects: 0.234410 ms  DeleteObjects: 0.005747 ms)
+
+Main Camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate[GameObject] (UnityEngine.GameObject original) [0x00000] in <filename unknown>:0 
+  at MakeInstance.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
